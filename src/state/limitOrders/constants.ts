@@ -1,0 +1,6 @@
+// TODO: reuse swap's
+
+// BNB
+export const DEFAULT_INPUT_CURRENCY = 'BNB'
+// BUSD
+export const DEFAULT_OUTPUT_CURRENCY = '0x22f1A047857ECBc45e0Ca2C554725907af6b204e'
